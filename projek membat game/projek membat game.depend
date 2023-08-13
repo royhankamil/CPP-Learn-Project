@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664117116 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\projek membat game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

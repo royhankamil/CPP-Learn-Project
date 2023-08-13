@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662650491 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\kalkulator\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1662651733 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\kalkulator\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1670228101 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\main.cpp
+	<iostream>
+	<string>
+	"Siswa.hpp"
+
+1670227351 c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\siswa.hpp
+	<string>
+
+1670228103 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\siswa.cpp
+	<iostream>
+	<string>
+	"Siswa.hpp"
+
+1670227065 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\src\player.cpp
+	"player.h"
+
+1670227065 c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\include\player.h
+
+1670227942 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\src\block.cpp
+	"block.h"
+
+1670227942 c:\users\rizal\documents\rekayasa perangkat lunak\projek diluar ddk\c++\make a simple class\class sederhana\include\block.h
+

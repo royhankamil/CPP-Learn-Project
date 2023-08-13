@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672037460 source:c:\users\rizal\documents\rekayasa perangkat lunak\projek ddk\c++\test\main.cpp
+	<iostream>
+	<ctime>
+	<SFML/Graphics.hpp>
+
